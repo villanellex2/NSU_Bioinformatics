@@ -1,0 +1,2 @@
+@SQ	SN:NC_000913.3	LN:4641652
+@PG	ID:minimap2	PN:minimap2	VN:2.17-r941	CL:minimap2 -a GCF_000005845.2_ASM584v2_genomic.fna sra_data.fastq.gz
