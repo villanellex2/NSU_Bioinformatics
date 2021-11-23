@@ -36,9 +36,13 @@ ____
 ____
 
 ## Инструкция по визуализации структур с помощью Yasara:
+
 Поиск surface в приложении:
+
 ![](https://raw.githubusercontent.com/villanellex2/NSU_Bioinformatics/task_3/finding%20surface.jpeg)
 
+____
 
 Поиск всего остального:
+
 ![](https://raw.githubusercontent.com/villanellex2/NSU_Bioinformatics/task_3/finding%20everithing%20else.jpeg)
